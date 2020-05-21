@@ -1,1 +1,1 @@
-# Bayesian_Inference-spam-or-ham-
+# Bayesian_Inference
